@@ -18,6 +18,6 @@ Download the dataset form the link:  https://www.kaggle.com/datasets/clmentbisai
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
 2. Prepare dataset: `python prepdataset.py`
-3. Run the notebook `python FakeNewsDetection.py`
+3. Run : `python FakeNewsDetection.py`
 
 
